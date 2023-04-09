@@ -14,11 +14,11 @@ I created this machine and Simulated a user, by checking sites, installing softw
 
 Analysis of apps, messages, photos with metadata and user settings
 
-### Copy and analysis of USB stick
+- Copy and analysis of USB stick
 
-### RAM memory dump
+- RAM memory dump
 
-### Analysis of images metadata
+- Analysis of images metadata
 
 ## Laboratories
 
