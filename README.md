@@ -4,8 +4,6 @@
 
 ## Project
 
----
-
 Project is divided to some sections:
 
 ### Full Analysis of Windows Machine
@@ -23,8 +21,6 @@ Analysis of apps, messages, photos with metadata and user settings
 ### Analysis of images metadata
 
 ## Laboratories
-
----
 
 ### Lab 1
 
